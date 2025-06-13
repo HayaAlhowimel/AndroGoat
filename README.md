@@ -1,4 +1,4 @@
-#  AndroGoat - Application Penetration Testing
+#  AndroGoat
 
 ## 📝 Overview
 
